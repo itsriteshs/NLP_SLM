@@ -1,0 +1,5 @@
+accelerate
+pypdf
+sentencepiece
+torch
+transformers

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated output
+Tamil_AI_Glossary.txt
+
+# Local model/cache data
+.cache/
+huggingface/
